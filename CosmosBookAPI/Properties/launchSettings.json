@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CosmosBookAPI": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7194"
+    }
+  }
+}
